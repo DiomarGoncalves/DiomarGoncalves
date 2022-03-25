@@ -1,7 +1,6 @@
-### Olá, eu sou o Israel 👋
+### Olá, eu sou o Diomar 👋
  ##
-- 🔭 Estudando C, C#, ReactJS, Javascript, Python.
-- 🌱 Cursando Ciência da Computação
+- 🔭 Estudando  Javascript, Python, CSS, HTML.
   ##
   
 <div align="center">
