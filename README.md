@@ -19,7 +19,7 @@
   
   ##
   
-  <a href="https://api.whatsapp.com/send?phone=5562996814937&text=Ola" target="blank_"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/WhatsApp_logo.svg" target="blank_"></a>
+  <a href="https://api.whatsapp.com/send?phone=5562996814937&text=Ola" target="blank_"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/WhatsApp_logo.svg" target="blank_" width="109px"></a>
   <a href="https://www.instagram.com/diomar_goncalve/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "maio:diomarbr4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diomar-gon%C3%A7alves-49b2b621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
