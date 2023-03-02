@@ -1,6 +1,7 @@
 ### Olá, eu sou o Diomar 👋
  ##
-- 🔭 Estudando  Javascript, Python, CSS, HTML.
+- 🔭 Cursando Ciencia da Computação.
+- Cursos de Html,Css,js,Python,React
   ##
   
 <div align="center" display="flex">
