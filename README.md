@@ -4,7 +4,7 @@
 - Cursos de Html,Css,js,Python,React
   ##
   
-<div align="center" display="block">
+<div align="center" display="block" height="25em" width="50%">
   <a href="https://github.com/DiomarBR">
   <img height="25em" width="50%" src="https://github-readme-stats.vercel.app/api?username=DiomarBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="25em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiomarBR&layout=compact&langs_count=7&theme=dark"/>
