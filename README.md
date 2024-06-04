@@ -5,9 +5,9 @@
   ##
   
 <div align="center" display="flex">
-  <a href="https://github.com/DiomarBR">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DiomarBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiomarBR&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/DiomarGoncalves">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DiomarGoncalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiomarGoncalves&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  
@@ -25,7 +25,7 @@
   <a href = "maio:diomarbr4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diomar-gon%C3%A7alves-49b2b621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-   ![ Animação de cobra ](https://github.com/diomarbr/diomarbr/blob/output/github-contribution-grid-snake.svg)
+   ![ Animação de cobra ](https://github.com/DiomarGoncalves/DiomarGoncalves/blob/output/github-contribution-grid-snake.svg)
  </div>
 
   
