@@ -24,8 +24,6 @@
   <a href="https://www.instagram.com/diomar_goncalve/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "maio:diomarbr4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diomar-gon%C3%A7alves-49b2b621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-   ![ Animação de cobra ](https://github.com/DiomarGoncalves/DiomarGoncalves/blob/output/github-contribution-grid-snake.svg)
  </div>
 
   
